@@ -40,4 +40,5 @@ sellers.toPandas().to_csv("sellers/sellers.csv", header = True)
 ## upload_output.py
 In this script, I uploaded the list of sellers that missed the deadline to s3.
 
-
+## Video of the project
+In this video I showed how the project works.
