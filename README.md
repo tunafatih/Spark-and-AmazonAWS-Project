@@ -1,4 +1,4 @@
-# Data Engineering Project
+# Spark and Amazon AWS Project
 
 ## download_data.py 
 In this script I downloaded data on s3 using boto.
